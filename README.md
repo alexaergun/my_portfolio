@@ -12,7 +12,7 @@ Completed
 
 ## Demo
 
-![gif](src/images/ReactPortfolio.gif)
+![gif](src/images/my-portfolio.gif)
 
 ## Built With
 
@@ -50,11 +50,9 @@ Through the development of my project I ran into a few challenges:
 - How to use React (and 3rd party libraries) with following a tutorial
 - Making use of SVGs (will definitely make more use of this for future apps)
 
-## What's Coming Next...
+## What's Coming Next
 
--Technical Resume enable on React Portfolio
-  -Portfolio Picture
--Project 3 once completed
+-Future Projects
 
 ## License
 
