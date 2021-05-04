@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.cf61d1fb.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.d19ed7f4.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.d19ed7f4.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.e961d79d.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.e961d79d.js.map",
+    "static/css/2.2d0dd394.chunk.css": "/my-portfolio/static/css/2.2d0dd394.chunk.css",
+    "static/js/2.401e7336.chunk.js": "/my-portfolio/static/js/2.401e7336.chunk.js",
+    "static/js/2.401e7336.chunk.js.map": "/my-portfolio/static/js/2.401e7336.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.f1e552a315f62a82b49776a5b24e932e.js": "/my-portfolio/precache-manifest.f1e552a315f62a82b49776a5b24e932e.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/2.2d0dd394.chunk.css.map": "/my-portfolio/static/css/2.2d0dd394.chunk.css.map",
+    "static/css/main.cf61d1fb.chunk.css.map": "/my-portfolio/static/css/main.cf61d1fb.chunk.css.map",
+    "static/media/DayPlanner1.png": "/my-portfolio/static/media/DayPlanner1.1a6386f9.png",
+    "static/media/GameBuzz.png": "/my-portfolio/static/media/GameBuzz.2b4c617a.png",
+    "static/media/HobbyDrop.png": "/my-portfolio/static/media/HobbyDrop.11e95622.png",
+    "static/media/TopBoardGames.png": "/my-portfolio/static/media/TopBoardGames.b9cf8cb7.png",
+    "static/media/WeatherDash1.png": "/my-portfolio/static/media/WeatherDash1.7cfbed60.png",
+    "static/media/cloud-backend.svg": "/my-portfolio/static/media/cloud-backend.1b2da0f2.svg",
+    "static/media/cloud-databases.svg": "/my-portfolio/static/media/cloud-databases.a49fe13b.svg",
+    "static/media/cloud-frontend.svg": "/my-portfolio/static/media/cloud-frontend.9105a657.svg",
+    "static/media/cloud-services.svg": "/my-portfolio/static/media/cloud-services.3290a955.svg",
+    "static/media/github.svg": "/my-portfolio/static/media/github.7447a07f.svg",
+    "static/media/hummingbird.svg": "/my-portfolio/static/media/hummingbird.feb2f8ec.svg",
+    "static/media/linkedin.svg": "/my-portfolio/static/media/linkedin.55be3535.svg",
+    "static/media/resume.svg": "/my-portfolio/static/media/resume.455a8406.svg",
+    "static/media/sun.svg": "/my-portfolio/static/media/sun.783e7fd9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e961d79d.js",
+    "static/css/2.2d0dd394.chunk.css",
+    "static/js/2.401e7336.chunk.js",
+    "static/css/main.cf61d1fb.chunk.css",
+    "static/js/main.d19ed7f4.chunk.js"
+  ]
+}
