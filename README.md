@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About
 
-My previous website portfolio was the beginning of a young sprout just starting to grow and expand. This time I wanted something new, I wanted to put more effort into my React Portfolio, and thus begins what I have now.
+I re-edited my react portfolio, added a resume, and added a much stronger bio of myself.
 
 ## Project Status
 
